@@ -1,1 +1,1 @@
-not_empty
+Of course not_empty file
